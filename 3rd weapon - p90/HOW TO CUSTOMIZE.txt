@@ -1,0 +1,13 @@
+1. change gunmodel
+2. change animations (idleAnim - adsUpAnim)
+3. change dpadIcon to: hud_icon_WEAPONUWANT
+4. change dpadIconRatio so it will scale correctly
+5. use hideTags to set ur attatchments
+	
+for example: hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_silencer (would be thermal scope)
+											 	
+
+
+u will need a complete folder with all weapon files to fully have control (get an azza menu they usualy have them)
+
+this file replaces the carepackage
